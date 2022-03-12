@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: rgb(255, 255, 255);
 		overflow: hidden;
 	}
 
@@ -98,10 +98,12 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+    /* Drop down text clour */
+
 	body, input, select, textarea {
-		color: #fff;
+		color: rgb(255, 255, 255);
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 15pt;
+		font-size: 5px;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
