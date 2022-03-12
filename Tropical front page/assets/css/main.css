@@ -1076,8 +1076,18 @@ input, select, textarea {
 			width: 1237.5px;
 		}
 
-	/* Header */
 
 		#header nav {
 			padding: 0 1em;
 		} }
+
+		.button {     
+			background-color: Transparent;
+			background-repeat:no-repeat;
+			border: none;
+			cursor:pointer;
+			overflow: hidden;   
+			font-size: 46px;  
+			color: white;
+			border: 3px solid rgb(255, 255, 255);  
+		}
